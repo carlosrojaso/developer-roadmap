@@ -9,7 +9,7 @@ Si piensas que puede ser mejorado de cualquier forma, porfavor avisanos.
 
 ## 🚀 Introducción
 
-![](https://i.imgur.com/qBlT67N.png)
+![](https://image.ibb.co/gut2t5/intro.png)
 
 ## 🎨 Camino del desarrollador Front-end
 
