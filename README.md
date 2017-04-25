@@ -13,7 +13,7 @@ Si piensas que puede ser mejorado de cualquier forma, porfavor avisanos.
 
 ## 🎨 Camino del desarrollador Front-end
 
-![](https://i.imgur.com/5vFTWcO.png)
+![](https://image.ibb.co/jpCWLk/frontend.png)
 
 ## 👽 Camino del desarrollador Back-end
 
