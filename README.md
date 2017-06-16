@@ -3,9 +3,9 @@
 > El camino para ser un desarrollador web en el 2017
 > Una traducción al español del developer-roadmap de kamranahmedse
 
-Abajo encontrarás un conjunto de diagramas demostrando que caminos que puedes tomar y las tecnologías que desearas adoptar para ser un desarrollador frontend, backend o devops. Hice estos diagramas para un antiguo profesor que tuve, el deseaba compartir algo a sus estudiantes para darles una perspectiva. 
+Abajo encontrarás un conjunto de diagramas que muestran los caminos que puedes tomar y las tecnologías que desearas adoptar para ser un desarrollador frontend, backend o devops. Hice estos diagramas para un profesor antiguo que tuve, el deseaba compartirle algo a sus estudiantes para darles una perspectiva. 
 
-Si piensas que puede ser mejorado de cualquier forma, porfavor avisanos.
+Si piensas que estos caminis pueden ser mejorado de cualquier forma, porfavor avisanos.
 
 ## 🚀 Introducción
 
@@ -17,7 +17,7 @@ Si piensas que puede ser mejorado de cualquier forma, porfavor avisanos.
 
 ## 👽 Camino del desarrollador Back-end
 
-For the backend, personally I would prefer Node.js and PHP 7 for the full time plus I have been experimenting lately with Go and I quite like it. Apart from these, if I have to choose another one, I would go for Ruby. However this is just my personal preference, you can choose any of the shown languages and you will be good.
+Para el backend, personalmente prefiero Node.js y PHP 7 ademas últimamente he estado experimentando con Go y me gusta bastante. Aparte de ellos, si tuviera tiempo de escoger otro, iría por Ruby. Sin embargo es solo mi opinión personal, puedes escoger cualquiera de los lenguajes mostrados abajo, te harán bien.
 
 ![](https://image.ibb.co/bthqD5/backend.png)
 
@@ -29,7 +29,7 @@ For the backend, personally I would prefer Node.js and PHP 7 for the full time p
 
 ## 🚦 Resumiendo
 
-Si piensas que cualquiera de estos caminos puede ser mejorado, porfavor abre un PR con cualquier actualización y envia cualquier issue. Además, continuaré mejorándolo, así que desearas ponerle watch/star a este repositorio para poder volverlo a visitarlo.
+Si piensas que cualquiera de estos caminos puede ser mejorado, porfavor abre un PR con cualquier mejora y envia cualquier issue. Además, continuaré mejorándolo, así que desearas ponerle watch/star a este repositorio para poder volverlo a visitarlo.
 
 ## ☑ TODO (Por hacer)
 
@@ -44,8 +44,8 @@ Los caminos o guías se han construido usando [Balsamiq](https://balsamiq.com/pr
 
 - Abre pull request para mejoras
 - Discute las ideas en los issues
-- Difunde!
-- Puedes llegar a mi directamente en kamranahmed.se@gmail.com o [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
+- Comparte!
+- Ponte en contacto conmigo directamente en kamranahmed.se@gmail.com o [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
 
 ## Patrocinado por
 
