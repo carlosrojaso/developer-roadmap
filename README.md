@@ -9,34 +9,24 @@ Si piensas que estos caminis pueden ser mejorado de cualquier forma, porfavor av
 
 ## 🚀 Introducción
 
-![](https://image.ibb.co/gut2t5/intro.png)
+![](https://github.com/carlosrojaso/developer-roadmap/blob/master/images/intro-map.png?raw=true)
 
 ## 🎨 Camino del desarrollador Front-end
 
-![](https://image.ibb.co/jpCWLk/frontend.png)
+![](https://github.com/carlosrojaso/developer-roadmap/blob/master/images/frontend-map.png?raw=true)
 
 ## 👽 Camino del desarrollador Back-end
 
-Para el backend, personalmente prefiero Node.js y PHP 7 ademas últimamente he estado experimentando con Go y me gusta bastante. Aparte de ellos, si tuviera tiempo de escoger otro, iría por Ruby. Sin embargo es solo mi opinión personal, puedes escoger cualquiera de los lenguajes mostrados abajo, te harán bien.
-
-![](https://image.ibb.co/bthqD5/backend.png)
+![](https://github.com/carlosrojaso/developer-roadmap/blob/master/images/backend-map.png?raw=true)
 
 ## 👷 Camino de DevOps
 
-![](https://image.ibb.co/bWMHt5/devops.png)
-
-<br>
+![](https://github.com/carlosrojaso/developer-roadmap/blob/master/images/devops-map.png?raw=true)
 
 ## 🚦 Resumiendo
 
 Si piensas que cualquiera de estos caminos puede ser mejorado, porfavor abre un PR con cualquier mejora y envia cualquier issue. Además, continuaré mejorándolo, así que desearas ponerle watch/star a este repositorio para poder volverlo a visitarlo.
 
-## ☑ TODO (Por hacer)
-
-- [X] Agregar el camino para desarrolladores Frontend
-- [X] Agregar el camino para desarrolladores Backend
-- [X] Agregar el camino para DevOps
-- [ ] Agregar recursos relevantes para cada uno de ellos
 
 ## 👬 Contribución
 
